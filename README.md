@@ -1,6 +1,8 @@
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Roberts Matiss Kapins!
+
 🚀 Passionate Software Developer | Transforming Ideas into Code
 
-Welcome to my corner of the digital universe! I'm Roberts Matiss Kapins, a dynamic and results-driven software developer with a profound passion for turning innovative ideas into reality through the power of code.
+Welcome to my corner of the digital universe! I'm a dynamic and results-driven software developer with a profound passion for turning innovative ideas into reality through the power of code.
 
 🌐 Expertise:
 
