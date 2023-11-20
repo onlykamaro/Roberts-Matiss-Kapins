@@ -44,7 +44,7 @@ Let's connect and explore the possibilities of crafting exceptional software sol
 
 - Codelex - PHP Developer
 - [The Complete Web Developer in 2023: Zero to Mastery)](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
-- [MIMO Web Development Basics (HTML/CSS/JS/etc)]
+- MIMO Web Development Basics (HTML/CSS/JS)
 
 ## 	📭 Contacts
 
